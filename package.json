@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Replaces the markdown image with an enhanced:img from the @sveltejs/enhanced-img.",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
   "type": "module",
   "keywords": [
     "svelte",
