@@ -1,9 +1,9 @@
 
 ### Image With Space Local Folder
-![abc](./img%20with%20space.png)
+![Image With Space Local Folder](./img%20with%20space.png)
 
 ### Image no space, local folder
-![abc](./img.png)
+![Image no space, local folder](./img.png)
 
 ### Image no space, lib folder
-![abc](../lib/images/img.png)
+![Image no space, lib folder](../lib/images/img.png)
