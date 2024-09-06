@@ -1,0 +1,22 @@
+{
+  "name": "mdsvex-enhanced-images",
+  "version": "1.0.0",
+  "description": "Replaces the markdown image with an enhanced:img from the @sveltejs/enhanced-img.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "svelte",
+    "enhanced:img",
+    "mdsvex",
+    "remark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzinga/mdsvex-enhanced-images"
+  },
+  "author": "Lucas Elzinga",
+  "license": "ISC",
+  "dependencies": {
+    "unist-util-visit": "^5.0.0"
+  }
+}
